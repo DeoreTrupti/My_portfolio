@@ -5,7 +5,7 @@
 
 This is the personal portfolio website of **Trupti Deore**, showcasing skills, projects, experience, education, certifications, and contact information. The website is fully responsive, modern, and built with **HTML, CSS, and JavaScript**.  
 
-## 🌐 Live Demo
+[##](https://deoretrupti.github.io/My_portfolio/) 🌐 Live Demo
 
 portfolio/
 ├─ index.html # Main HTML file

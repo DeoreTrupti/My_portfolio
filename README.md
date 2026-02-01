@@ -42,4 +42,4 @@ portfolio/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone git@github.com:DeoreTrupti/My_portfolio.git
